@@ -1,0 +1,2 @@
+# discordbots_FileSecurityCheck
+discordbotを構築する上でファイル内に記載しない方が良い情報などが紛れ込んでいた際に警告を出すCLIツールです。
